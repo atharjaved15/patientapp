@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918987021876",
+    "project_id": "e-clinic-18aa2",
+    "storage_bucket": "e-clinic-18aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918987021876:android:04bac4ec3b980ba5b17461",
+        "android_client_info": {
+          "package_name": "com.example.patientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918987021876-snd3asgli20a92cp3dqjevfj5s39r8vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_fbSnSEI8icBY9fUo2Hx68MOQv4L5fvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918987021876-snd3asgli20a92cp3dqjevfj5s39r8vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
